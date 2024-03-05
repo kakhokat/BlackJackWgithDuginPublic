@@ -1,2 +1,0 @@
-# blackjackwithdugin
-blackjack tg bot
