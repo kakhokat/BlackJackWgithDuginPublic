@@ -4,7 +4,7 @@ from cart_collection import *
 from random import randint, shuffle
 
 def work():
-    TOKEN = 'Insert your bot's code here.' #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    TOKEN = 'Insert your bot's code here.' #!!!!!!!!!!!!!!!!!
     bot = telebot.TeleBot(TOKEN)
     @bot.message_handler(commands=['start'])
     def start(message):
